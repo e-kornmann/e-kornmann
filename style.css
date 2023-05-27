@@ -1,0 +1,16 @@
+
+
+.logos, .logos-long {
+    display: flex;
+    width: 30px;
+    height: 50px;
+    max-height: 50px;
+    float: left;
+    margin-right: 30px;
+}
+
+.logos-long {
+    width: 60px;
+    height: 40px;
+    max-height: 1500px;
+}
