@@ -50,4 +50,5 @@
 <img width="30" style="padding-right: 30px;" align="left" src="firebase.svg" />
 <img width="30" style="padding-right: 30px;" align="left" src="vercel.png" />
 <img width="30" style="padding-right: 30px;" align="left" src="contentful.svg" />
+<img width="30" style="padding-right: 30px;" align="left" src="https://thesvg.org/icons/sanity/default.svg" />
 <img width="30" style="padding-right: 30px;" align="left" src="postman.svg" />
